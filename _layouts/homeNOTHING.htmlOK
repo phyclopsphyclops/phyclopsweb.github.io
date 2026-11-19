@@ -1,0 +1,8 @@
+---
+layout: aboutJustForNow
+heading: "no effect"
+subheading: "still no effect"
+banner: 'default'
+---
+
+{{ content }}
